@@ -1,2 +1,0 @@
--I/home/dylan/Documents/Cpp/Projects/Grover/src/include
--std=c++2a
